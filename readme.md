@@ -3,8 +3,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-@neugomonov__v-black?style=for-the-badge&labelColor=black&logo=telegram&logoColor=0088cc&link=https://t.me/neugomonov_v)](https://t.me/neugomonov_v)
 
 <div style="display: flex; flex-direction: row;">
-  <img height="180em" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=neugomonov&theme=dark&hide_border=true&layout=compact&border_radius=25"/>
-  <img height="180em" align=top src="https://github-readme-stats.vercel.app/api?username=neugomonov&show_icons=true&theme=dark&hide_border=true&border_radius=25&icon_color=blue"/>
+  <img class="img" height="180em" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=neugomonov&theme=dark&hide_border=true&layout=compact&border_radius=25"/>
+  <img class="img" height="180em" align=top src="https://github-readme-stats.vercel.app/api?username=neugomonov&show_icons=true&theme=dark&hide_border=true&border_radius=25&icon_color=blue"/>
 </div>
 
 <details>
