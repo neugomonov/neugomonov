@@ -2,9 +2,10 @@
 
 [![Telegram Badge](https://img.shields.io/badge/-@neugomonov__v-black?style=for-the-badge&labelColor=black&logo=telegram&logoColor=0088cc&link=https://t.me/neugomonov_v)](https://t.me/neugomonov_v)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neugomonov&theme=dark&hide_border=true&layout=compact&border_radius=25)](https://github.com/neugomonov/github-readme-stats)  
-[![Anub'arak's GitHub stats](https://github-readme-stats.vercel.app/api?username=neugomonov&show_icons=true&theme=dark&hide_border=true&border_radius=25&icon_color=blue)](https://github.com/neugomonov/github-readme-stats)  
-
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=neugomonov&theme=dark&hide_border=true&layout=compact&border_radius=25"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=neugomonov&show_icons=true&theme=dark&hide_border=true&border_radius=25&icon_color=blue"/>
+<div>
 
 <details>
 <summary>
