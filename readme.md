@@ -13,9 +13,12 @@
 
 <br/>
 
-I do like code  
-
+Every [🔄](https://github.com/neugomonov) in [📜](https://github.com/neugomonov)   
+  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=neugomonov.neugomonov&left_color=black&right_color=blue)  
+a visitor passes. :(  
+Together we can stop this!  
+Please, spread the word.  
+Thank you for your attention! :) 
 
-Thank you for reading
 </details>
