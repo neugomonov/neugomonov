@@ -6,13 +6,13 @@
   <img width="400em" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=neugomonov&theme=dark&hide_border=true&layout=compact&border_radius=25"/> 
   <img width="400em" align=top src="https://github-readme-stats.vercel.app/api?username=neugomonov&show_icons=true&theme=dark&hide_border=true&border_radius=25&icon_color=blue"/>
 </div>
-
+<br>
 <details>
 <summary>
   Fun
 </summary>
 
-<br/>
+<br>
 
 Every [🔄](https://github.com/neugomonov) in [📜](https://github.com/neugomonov)   
   
