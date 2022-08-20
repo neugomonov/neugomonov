@@ -22,4 +22,12 @@ Together we can stop this!
 Please, spread the word.  
 Thank you for your attention! :) 
 
+  <br>
+  <br>
+  <img width="400em" align=top src="http://github-readme-streak-stats.herokuapp.com?user=neugomonov&theme=dark&hide_border=true"/>
+  <br>
+  <br>
+
+  <img width="100%" align=top src="https://activity-graph.herokuapp.com/graph?username=neugomonov&theme=react-dark"/>
+  
 </details>
