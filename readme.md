@@ -14,7 +14,7 @@
 
 <br>
 
-Every [🔄](https://github.com/neugomonov) in [📜](https://github.com/neugomonov)   
+Every [🔄](https://github.com/neugomonov) in [📜](https://github.com/neugomonov/neugomonov)   
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=neugomonov.neugomonov&left_color=black&right_color=blue)  
 a visitor passes. :(  
