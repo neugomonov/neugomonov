@@ -30,6 +30,6 @@ Thank you for your attention! :)
   
   <img width="100%" align=top src="https://activity-graph.herokuapp.com/graph?username=neugomonov&theme=react-dark"/>
   
-  <img width="100%" align=top src="https://github.com/neugomonov/neugomonov/blob/output/github-contribution-grid-snake.svg"/>
+  <img width="100%" align=top src="https://github.com/neugomonov/neugomonov/blob/output/github-contribution-grid-snake.gif"/>
 
 </details>
