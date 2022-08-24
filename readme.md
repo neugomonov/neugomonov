@@ -3,8 +3,8 @@
 [![Telegram Badge](https://img.shields.io/badge/-@neugomonov__v-black?style=for-the-badge&labelColor=black&logo=telegram&logoColor=0088cc&link=https://t.me/neugomonov_v)](https://t.me/neugomonov_v)
 
 <div>
-  <img width="400em" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=neugomonov&theme=dark&hide_border=true&layout=compact&border_radius=25"/> 
-  <img width="400em" align=top src="https://github-readme-stats.vercel.app/api?username=neugomonov&show_icons=true&theme=dark&hide_border=true&border_radius=25&icon_color=blue"/>
+  <img height="170em" align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=neugomonov&theme=dark&hide_border=true&layout=compact&border_radius=25"/> 
+  <img height="170em" align=top src="https://github-readme-stats.vercel.app/api?username=neugomonov&show_icons=true&theme=dark&hide_border=true&border_radius=25&icon_color=blue"/>
 </div>
 <br>
 <details>
@@ -28,8 +28,21 @@ Thank you for your attention! :)
   <br>
   <br>
   
-  <img width="100%" align=top src="https://activity-graph.herokuapp.com/graph?username=neugomonov&theme=react-dark"/>
+  <img width="100%" align=top src="https://activity-graph.herokuapp.com/graph?username=neugomonov&theme=react-dark"/>  
   
+  <pre>  
+                                                                                                            ^ cat ^     
+
+                        /)
+                /\_/\  ((
+              =( ^_^ )= ))
+               /  Y  \_//
+    ---------{_}^----------------
+               ^ cat ^
+    
+               v snek v
+ </pre>  
+   
   <img width="100%" align=top src="https://github.com/neugomonov/neugomonov/blob/output/github-contribution-grid-snake.svg"/>
 
 </details>
