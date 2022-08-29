@@ -31,9 +31,9 @@ Thank you for your attention! :)
   <img width="100%" align=top src="https://activity-graph.herokuapp.com/graph?username=neugomonov&theme=react-dark"/>  
   
   <pre>  
-                                                                                          ^ cat ^     
+                                                                                      ^ cat ^     
 
-                        /)
+                 ,  ,   /)
                 /\_/\  ((
               =( ^_^ )= ))
                /  Y  \_//
