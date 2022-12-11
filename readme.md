@@ -28,7 +28,7 @@ Thank you for your attention! :)
   <br>
   <br>
   
-  <img width="100%" align=top src="https://activity-graph.herokuapp.com/graph?username=neugomonov&theme=react-dark"/>  
+  <img width="100%" align=top src="https://github-readme-activity-graph.cyclic.app/graph?username=neugomonov&theme=react-dark"/>  
   
   <pre>
                  ,  ,   /)
