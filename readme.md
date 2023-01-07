@@ -41,6 +41,6 @@ Thank you for your attention! :)
                v snek v
 </pre>  
    
-  <img width="100%" align=top src="https://github.com/neugomonov/neugomonov/blob/output/github-contribution-grid-snake.svg"/>
+![snek](https://github.com/neugomonov/neugomonov/blob/output/github-contribution-grid-snake-dark.svg)
 
 </details>
